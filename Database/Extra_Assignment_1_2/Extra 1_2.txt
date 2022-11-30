@@ -1,0 +1,4 @@
+ID : Int 
+Name : varchar(50)
+Code : char(5)
+ModifiedDate : Datetime

@@ -1,0 +1,4 @@
+Id : int 
+Name : varchar(50)
+Gender : enum ( '0', '1', Null )
+IsDeletedFlag : enum ( '0', '1' ) 
